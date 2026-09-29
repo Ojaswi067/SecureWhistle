@@ -1,7 +1,3 @@
-# SecureWhistle
-Secure blockchain-based whistleblower platform using Hyperledger Fabric, encrypted off-chain storage, and Zero-Knowledge Proofs for anonymous employee verification.
-Sure. Here is a simple version without emojis or bold formatting:
-
 # Secure Blockchain-Based Whistleblower Reporting System
 
 A secure whistleblower reporting platform that allows employees to report organizational misconduct while maintaining privacy, confidentiality, and data integrity.
